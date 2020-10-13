@@ -25,7 +25,7 @@ A new version of the software is produced with each phase, or iteration. Rinse a
 If you decided to use “the Waterfall model” , your plan has to be fully required for anything. 
 Because of the “not turning back” thing you have to make things fully successful. But this is human kind, we make some mistakes everytime. 
 So I think Waterfall model is not a best option for SDLC. 
-In “Iterative Model” you always start to do something but it`s not perfect. 
-You always do the Project`s half of it or you make things slice and slice and when you combined them they won`t work. You don`t know that but that is in the possibilty. 
+In “Iterative Model” you always start to do something but it is not perfect. 
+You always do the Projects half of it or you make things slice and slice and when you combined them they will not work. You do not know that but that is in the possibilty. 
 I think “Agile Method” is the best of in this three models. We use cycles like Iterative again, we are especially looking forward to detect the mistakes unlike the Waterfall model. 
 Always testing the software in every circle. If my future Works , I might use the Agile method in my projects.
